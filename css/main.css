@@ -1,0 +1,29 @@
+.no-margin{
+	margin: 0;
+}
+.panda{
+	background-image: url(../images/uno.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 25%;
+}
+.about{
+	padding: 3% 30%;
+	border-top: 20px solid #ff8a65;
+	border-bottom: 20px solid #ff8a65;
+}
+.pandatwo{
+	background-image: url(../images/dos.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 25%;
+}
+img{
+	border: 6px solid white;
+}
+.pandalast{
+	background-image: url(../images/tres.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 25%;
+}
